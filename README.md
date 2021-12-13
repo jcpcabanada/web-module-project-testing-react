@@ -27,6 +27,8 @@ Get the project fired up and start using it as a user would. Try to go through t
 - [ ] With each saved change in your editor, the test runner will re-run all the tests
 - [ ] **IMPORTANT** If a test fails, use the test runner's error messages to find out why it is failing
 
+
+[comment]: <> (here)
 ### Task 2: Project Requirements
 #### The Episode Component
 > *This component displays a single episode worth of data. To test it, let's try our some different varieties on what we should pass into our component's props.*
