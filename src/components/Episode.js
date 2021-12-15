@@ -3,7 +3,7 @@ import React from 'react';
 const Episode = (props)=> {
     const {episode} = props;
     const {id, image, name, season, number, summary, runtime} = episode;
-    const imgsrc = image || 'https://i.ibb.co/2FsfXqM/stranger-things.png';
+    const imgsrc = image || './stranger_things.png';
 
     console.log("episode: ", episode);
 
